@@ -19,3 +19,5 @@ npm run dev
 ## Future page inspiration
 
 https://vercel.com/templates/next.js/visactor-nextjs-template
+
+https://grafana.com/products/cloud/traces/
