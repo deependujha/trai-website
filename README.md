@@ -13,3 +13,9 @@ git checkout -b {YOUR_BRANCH_NAME}
 npm i
 npm run dev
 ```
+
+---
+
+## Future page inspiration
+
+https://vercel.com/templates/next.js/visactor-nextjs-template
