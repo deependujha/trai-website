@@ -31,7 +31,6 @@ const Header: React.FC = () => {
                 {siteDetails.siteName}
               </span>
             </Link>
-
             {/* Desktop Menu */}
             <ul className="hidden md:flex space-x-6">
               {menuItems.map((item) => (
